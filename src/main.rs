@@ -11,7 +11,7 @@ fn main() {
     }
 
     if numbers.len() == 0 {
-        writeln!(io::stderr(), "").unwrap();
+        writeln!(io::stderr(), "Usage: cargo run [number] [number] ...").unwrap();
         std::process::exit(1);
     }
 
