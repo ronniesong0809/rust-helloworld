@@ -1,6 +1,6 @@
 # rust-helloworld
 
-[![Build Status](https://travis-ci.com/ronniesong0809/rust_helloworld.svg?branch=master)](https://travis-ci.com/ronniesong0809/rust_helloworld)
+[![Build Status](https://travis-ci.com/ronniesong0809/rust-helloworld.svg?branch=master)](https://travis-ci.com/ronniesong0809/rust-helloworld)
 
 Copyright (c) 2020 Ronnie Song
 
